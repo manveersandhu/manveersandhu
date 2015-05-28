@@ -1,0 +1,8 @@
+ls
+clear
+
+
+Q
+exit
+je;[
+help
